@@ -12,7 +12,9 @@ Page made following the tutorial: [Onlinee Tutorials](https://youtu.be/91Q6RvKvd
 
 ## Attribution
 
-- [Onlinee Tutorials](https://youtu.be/91Q6RvKvd7o)
+- [Onlinee Tutorials video 1](https://youtu.be/91Q6RvKvd7o)
+
+- [Onlinee Tutorials video 2](https://youtu.be/HXKNedyDbNE)
 
 - [Img 1](https://freepngimg.com/png/77325-frappuccino-drink-chocolate-starbucks-matcha-white)
 
